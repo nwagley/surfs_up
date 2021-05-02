@@ -13,6 +13,8 @@ We can see that see after looking at the above table in june that the average te
 
 
 December 
+<img width="108" alt="decp" src="https://user-images.githubusercontent.com/79885849/116818422-383dec80-ab39-11eb-8025-21a0341ca787.PNG">
+
 In December when we look at the above temperature from the data we pulled, the average temperature
 was 71 degrees with the minimum going down to 56 and the max reaching 83 degrees.
 
