@@ -5,8 +5,9 @@ The overview of this assignemnt was to gather data for W.Avy and find out the an
 in the city of Oahu, Hawaii. He needs this data in order to see if his new surf and ice cream shop will be sustainable all year long. 
 
 ## Results 
+June
+<img width="107" alt="junep" src="https://user-images.githubusercontent.com/79885849/116818417-307e4800-ab39-11eb-8c47-cce662ba9139.PNG">
 
-June 
 We can see that see after looking at the above table in june that the average temperature was 
 74 degrees, with the minimum being 64 and the maximum being apprx 85 degrees 
 
