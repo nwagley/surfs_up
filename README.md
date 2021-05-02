@@ -1,8 +1,7 @@
 # Surf's Up
 
 ## Overview 
-The overview of this assignemnt was to gather data for W.Avy and find out the analysis of the temperature trends. He asked us to get the temperature data from the months of June and December
-in the city of Oahu, Hawaii. He needs this data in order to see if his new surf and ice cream shop will be sustainable all year long. 
+The overview of this assignemnt was to gather data for W.Avy and find out the analysis of the temperature trends. He asked us to get the temperature data from the months of June and December in the city of Oahu, Hawaii. He needs this data in order to see if his new surf and ice cream shop will be sustainable all year long. 
 
 ## Results 
 June
@@ -10,7 +9,6 @@ June
 
 We can see that see after looking at the above table in june that the average temperature was 
 74 degrees, with the minimum being 64 and the maximum being apprx 85 degrees 
-
 
 December 
 <img width="108" alt="decp" src="https://user-images.githubusercontent.com/79885849/116818422-383dec80-ab39-11eb-8025-21a0341ca787.PNG">
